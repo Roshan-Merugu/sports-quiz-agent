@@ -1,0 +1,7 @@
+streamlit>=1.36.0
+chromadb>=0.5.5
+sentence-transformers>=3.0.1
+duckduckgo-search>=6.2.6
+google-generativeai>=0.7.2
+python-dotenv>=1.0.1
+

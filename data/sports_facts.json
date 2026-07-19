@@ -1,0 +1,277 @@
+[
+  {
+    "id": "cricket-001",
+    "sport": "Cricket",
+    "fact": "The first official Cricket World Cup was held in England in 1975, and the West Indies won the tournament."
+  },
+  {
+    "id": "cricket-002",
+    "sport": "Cricket",
+    "fact": "India won the 1983 Cricket World Cup by defeating the West Indies at Lord's."
+  },
+  {
+    "id": "cricket-003",
+    "sport": "Cricket",
+    "fact": "Australia won three consecutive Cricket World Cups in 1999, 2003, and 2007."
+  },
+  {
+    "id": "cricket-004",
+    "sport": "Cricket",
+    "fact": "Sachin Tendulkar is widely known for scoring 100 international centuries across Test and One Day International cricket."
+  },
+  {
+    "id": "cricket-005",
+    "sport": "Cricket",
+    "fact": "Brian Lara scored 400 not out for the West Indies against England in 2004, the highest individual score in Test cricket."
+  },
+  {
+    "id": "cricket-006",
+    "sport": "Cricket",
+    "fact": "Muttiah Muralitharan finished his Test career with 800 wickets, the most by any bowler in Test cricket."
+  },
+  {
+    "id": "cricket-007",
+    "sport": "Cricket",
+    "fact": "The Ashes is a historic Test cricket rivalry played between England and Australia."
+  },
+  {
+    "id": "cricket-008",
+    "sport": "Cricket",
+    "fact": "The Indian Premier League began in 2008 as a professional Twenty20 cricket league in India."
+  },
+  {
+    "id": "cricket-009",
+    "sport": "Cricket",
+    "fact": "MS Dhoni captained India to victory in the 2007 ICC World Twenty20 and the 2011 Cricket World Cup."
+  },
+  {
+    "id": "cricket-010",
+    "sport": "Cricket",
+    "fact": "England won the 2019 Cricket World Cup final against New Zealand at Lord's after a tied match and tied Super Over."
+  },
+  {
+    "id": "cricket-011",
+    "sport": "Cricket",
+    "fact": "Virat Kohli is known for becoming one of the fastest players to reach major run milestones in One Day Internationals."
+  },
+  {
+    "id": "football-001",
+    "sport": "Football",
+    "fact": "The first FIFA World Cup was held in Uruguay in 1930, and Uruguay won the tournament."
+  },
+  {
+    "id": "football-002",
+    "sport": "Football",
+    "fact": "Brazil has won the FIFA World Cup five times, more than any other men's national team."
+  },
+  {
+    "id": "football-003",
+    "sport": "Football",
+    "fact": "Pele won three FIFA World Cups with Brazil in 1958, 1962, and 1970."
+  },
+  {
+    "id": "football-004",
+    "sport": "Football",
+    "fact": "Diego Maradona captained Argentina to victory at the 1986 FIFA World Cup in Mexico."
+  },
+  {
+    "id": "football-005",
+    "sport": "Football",
+    "fact": "Lionel Messi captained Argentina to victory at the 2022 FIFA World Cup in Qatar."
+  },
+  {
+    "id": "football-006",
+    "sport": "Football",
+    "fact": "The UEFA Champions League is Europe's premier annual club football competition."
+  },
+  {
+    "id": "football-007",
+    "sport": "Football",
+    "fact": "Real Madrid has historically been the most successful club in the UEFA Champions League and European Cup."
+  },
+  {
+    "id": "football-008",
+    "sport": "Football",
+    "fact": "The English Premier League began in 1992 after clubs in England's top division broke away from the Football League."
+  },
+  {
+    "id": "football-009",
+    "sport": "Football",
+    "fact": "Cristiano Ronaldo has won UEFA Champions League titles with Manchester United and Real Madrid."
+  },
+  {
+    "id": "football-010",
+    "sport": "Football",
+    "fact": "France won the 1998 FIFA World Cup on home soil by defeating Brazil in the final."
+  },
+  {
+    "id": "football-011",
+    "sport": "Football",
+    "fact": "Germany won the 2014 FIFA World Cup final against Argentina with an extra-time goal by Mario Gotze."
+  },
+  {
+    "id": "tennis-001",
+    "sport": "Tennis",
+    "fact": "Wimbledon is the oldest tennis tournament and is traditionally played on grass courts in London."
+  },
+  {
+    "id": "tennis-002",
+    "sport": "Tennis",
+    "fact": "The four Grand Slam tennis tournaments are the Australian Open, French Open, Wimbledon, and US Open."
+  },
+  {
+    "id": "tennis-003",
+    "sport": "Tennis",
+    "fact": "Rafael Nadal is strongly associated with the French Open because of his record dominance on clay courts in Paris."
+  },
+  {
+    "id": "tennis-004",
+    "sport": "Tennis",
+    "fact": "Serena Williams won 23 Grand Slam singles titles, the most by any player in the Open Era."
+  },
+  {
+    "id": "tennis-005",
+    "sport": "Tennis",
+    "fact": "Roger Federer won his first Wimbledon singles title in 2003."
+  },
+  {
+    "id": "tennis-006",
+    "sport": "Tennis",
+    "fact": "Novak Djokovic completed a career Grand Slam by winning all four major tennis tournaments."
+  },
+  {
+    "id": "tennis-007",
+    "sport": "Tennis",
+    "fact": "Steffi Graf won the Golden Slam in 1988 by winning all four major singles titles and Olympic gold in the same year."
+  },
+  {
+    "id": "tennis-008",
+    "sport": "Tennis",
+    "fact": "The Davis Cup is a major international team competition in men's tennis."
+  },
+  {
+    "id": "tennis-009",
+    "sport": "Tennis",
+    "fact": "The Billie Jean King Cup is a major international team competition in women's tennis."
+  },
+  {
+    "id": "tennis-010",
+    "sport": "Tennis",
+    "fact": "The French Open is the only Grand Slam tournament played on clay courts."
+  },
+  {
+    "id": "tennis-011",
+    "sport": "Tennis",
+    "fact": "The US Open is played on hard courts in New York."
+  },
+  {
+    "id": "basketball-001",
+    "sport": "Basketball",
+    "fact": "Basketball was invented by James Naismith in 1891 in Springfield, Massachusetts."
+  },
+  {
+    "id": "basketball-002",
+    "sport": "Basketball",
+    "fact": "The NBA was formed in 1946 as the Basketball Association of America before later becoming the National Basketball Association."
+  },
+  {
+    "id": "basketball-003",
+    "sport": "Basketball",
+    "fact": "Michael Jordan led the Chicago Bulls to six NBA championships in the 1990s."
+  },
+  {
+    "id": "basketball-004",
+    "sport": "Basketball",
+    "fact": "The Boston Celtics and Los Angeles Lakers are two of the most successful franchises in NBA history."
+  },
+  {
+    "id": "basketball-005",
+    "sport": "Basketball",
+    "fact": "The Dream Team was the nickname for the United States men's basketball team that won Olympic gold in 1992."
+  },
+  {
+    "id": "basketball-006",
+    "sport": "Basketball",
+    "fact": "Wilt Chamberlain scored 100 points in a single NBA game in 1962."
+  },
+  {
+    "id": "basketball-007",
+    "sport": "Basketball",
+    "fact": "LeBron James became the NBA's all-time leading scorer in regular-season points in 2023."
+  },
+  {
+    "id": "basketball-008",
+    "sport": "Basketball",
+    "fact": "The three-point line was introduced in the NBA for the 1979-80 season."
+  },
+  {
+    "id": "basketball-009",
+    "sport": "Basketball",
+    "fact": "The WNBA began play in 1997 as a professional women's basketball league in the United States."
+  },
+  {
+    "id": "basketball-010",
+    "sport": "Basketball",
+    "fact": "Kareem Abdul-Jabbar was famous for his skyhook shot and won six NBA championships."
+  },
+  {
+    "id": "basketball-011",
+    "sport": "Basketball",
+    "fact": "Stephen Curry is widely credited with transforming modern basketball through high-volume three-point shooting."
+  },
+  {
+    "id": "badminton-001",
+    "sport": "Badminton",
+    "fact": "Badminton became an Olympic sport at the 1992 Barcelona Games."
+  },
+  {
+    "id": "badminton-002",
+    "sport": "Badminton",
+    "fact": "The Thomas Cup is a major international team championship for men's badminton."
+  },
+  {
+    "id": "badminton-003",
+    "sport": "Badminton",
+    "fact": "The Uber Cup is a major international team championship for women's badminton."
+  },
+  {
+    "id": "badminton-004",
+    "sport": "Badminton",
+    "fact": "The Sudirman Cup is a major mixed-team world badminton championship."
+  },
+  {
+    "id": "badminton-005",
+    "sport": "Badminton",
+    "fact": "Lin Dan of China is widely regarded as one of the greatest men's singles badminton players."
+  },
+  {
+    "id": "badminton-006",
+    "sport": "Badminton",
+    "fact": "Lee Chong Wei of Malaysia spent many weeks ranked world number one in men's singles badminton."
+  },
+  {
+    "id": "badminton-007",
+    "sport": "Badminton",
+    "fact": "P. V. Sindhu won an Olympic silver medal in women's singles badminton at Rio 2016."
+  },
+  {
+    "id": "badminton-008",
+    "sport": "Badminton",
+    "fact": "Saina Nehwal won an Olympic bronze medal in women's singles badminton at London 2012."
+  },
+  {
+    "id": "badminton-009",
+    "sport": "Badminton",
+    "fact": "The BWF World Championships is one of the most prestigious individual badminton tournaments."
+  },
+  {
+    "id": "badminton-010",
+    "sport": "Badminton",
+    "fact": "Indonesia, China, Malaysia, Denmark, Japan, and South Korea have historically been strong badminton nations."
+  },
+  {
+    "id": "badminton-011",
+    "sport": "Badminton",
+    "fact": "Badminton uses a shuttlecock, and elite rallies require quick reflexes, deception, and rapid court coverage."
+  }
+]
