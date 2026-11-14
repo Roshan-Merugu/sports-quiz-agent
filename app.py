@@ -2,7 +2,7 @@
 
 from __future__ import annotations
 
-import streamlit as st
+import streamlit as st  # type: ignore[reportMissingImports]
 
 from src.config import SUPPORTED_DIFFICULTIES, SUPPORTED_SPORTS, load_environment
 from src.database import query_database, setup_database
